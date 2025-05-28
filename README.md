@@ -17,18 +17,6 @@ A modern property rental and management platform built with React and Node.js.
 - Database: MongoDB
 - Styling: Bootstrap 5
 
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
 ## Project Structure
 
 - `/src` - Frontend React code
